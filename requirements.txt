@@ -1,0 +1,11 @@
+scipy 
+numpy
+keras
+flask
+flask_cors
+Pillow
+matplotlib
+tensorflow
+DateTime
+gunicorn
+scikit-learn
